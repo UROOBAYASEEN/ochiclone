@@ -12,7 +12,7 @@ import NextFeatures from './components/Nextfeature'
 import Footer from './components/Footer'
 import LocomotiveScroll from 'locomotive-scroll';
 import { useEffect } from 'react'
-import Nextfeature2 from './components/nextfeature2'
+import Nextfeature2 from './components/Nextfeature2'
 
 const Page = () => {
  
