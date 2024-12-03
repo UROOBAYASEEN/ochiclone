@@ -40,7 +40,7 @@ const Nextfeature2 = () => {
 
         {/* First Section */}
         <div className="flex flex-col items-center lg:w-1/2">
-          <h1 className="text-white text-lg md:text-2xl mb-3">
+          <h1 className="text-white text-lg md:text-2xl mb-3 ">
             <span className="h-2 w-2 bg-black rounded-full inline-block mr-2"></span>
             Cardboard Spaceship
           </h1>
@@ -52,8 +52,14 @@ const Nextfeature2 = () => {
             className="max-w-full h-auto"
           />
           <div className="flex gap-4 mt-4">
-            <h1 className="py-2 px-5 border-white border rounded-2xl text-white">
+            <h1 className="py-2 px-5 border-white border rounded-2xl text-white uppercase">
               Brand Template
+            </h1>
+            <h1 className="py-2 px-5 border-white border rounded-2xl text-white uppercase">
+              sale decks
+            </h1>
+            <h1 className="py-2 px-5 border-white border rounded-2xl text-white uppercase">
+              social media templete 
             </h1>
           </div>
         </div>
